@@ -1,0 +1,31 @@
+h1{
+    text-align:center;
+}
+h2{
+    text-align:center;
+}
+img {
+    width: 200px;
+}
+
+.snack-section{
+    border: 5px solid pink;
+}
+.snack-pics {
+    display: flex;
+    justify-content: center;
+    margin:50px;
+}
+
+.dinner-section{
+    border: 5px solid blue;
+}
+.dinner-pics {
+    display: flex;
+    justify-content: center;
+    margin:50px;
+}
+
+body{
+    background-color: #32a8a6;
+}
